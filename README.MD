@@ -2,14 +2,14 @@
 
 ### Back End
 
-![TraderPro]https://github.com/Al3xisFernandez/trader-pro-front-end/tree/develop/src/images/logo.png
+![TraderPro](https://github.com/Al3xisFernandez/trader-pro-front-end/tree/develop/src/images/logo.png)
 
 ### :black_large_square:*Llevando tu **trading** al siguiente nivel*:black_large_square:
 
 
 ##  :abacus:  TECNOLOGIAS USADAS  :abacus:
 
-![TraderPro]https://github.com/Al3xisFernandez/trader-pro-front-end/tree/develop/src/images/mern.png
+![TraderPro](https://github.com/Al3xisFernandez/trader-pro-front-end/tree/develop/src/images/mern.png)
 
 ## :mage_man:  Developers  :mage_man:
 
