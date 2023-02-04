@@ -9,7 +9,7 @@
 
 ##  :abacus:  TECNOLOGIAS USADAS  :abacus:
 
-![MERN](https://github.com/Al3xisFernandez/trader-pro-front-end/tree/develop/src/images/mern.png)
+![MERN](https://github.com/Al3xisFernandez/trader-pro-front-end/blob/develop/src/images/mern.png)
 
 ## :mage_man:  Developers  :mage_man:
 
