@@ -22,7 +22,9 @@ const User = mongoose.model("UserInfo");
 
 app.post("/register", async (req, res) => {
   const { fname, lname, email, password } = req.body;
-
+  if (!password) {
+    return res.status(400).send('La contraseña es requerida');
+  }
   const encrytedPassword = await bcrypt.hash(password, 10);
   try {
     const oldUser = await User.findOne({ email });

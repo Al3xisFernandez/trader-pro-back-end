@@ -6,7 +6,7 @@ const UserSchema = new Schema(
     fname: String,
     lname: String,
     email: { type: String, unique: true },
-    password: String,
+    password:  { type: String, required: true }
   },
   { collection: "UserInfo" }
 );
